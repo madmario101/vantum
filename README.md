@@ -5,7 +5,7 @@ Official golang implementation of the Vantum protocol.
 [![API Reference](
 https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
 )](https://godoc.org/github.com/vantum/vantum)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://discordapp.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg)](https://discord.gg/KXChTr4)
 
 Automated builds are available for stable releases and the unstable master branch.
 Binary archives are published at https://geth.ethereum.org/downloads/.
